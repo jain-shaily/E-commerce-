@@ -47,10 +47,6 @@ npm install
 npm run dev
 ```
 
-## 📸 Screenshots
-
-(Add screenshots of your Home Page, Login Page, Cart Page, etc.)
-
 ## 👩‍💻 Developed By
 
 **Shaily Jain**
